@@ -18,4 +18,4 @@ Develop a complete end-to-end data science project, starting from data collectio
 Deliverable:
 A deployed API or web application demonstrating the model's functionality, capable of receiving input and returning predictions.
 # Out put screen
-<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/fdaac7f4-fa98-4568-9821-31cf6799f9e1" />
+<img width="816" height="508" alt="Image" src="https://github.com/user-attachments/assets/61a84d1d-88f7-4964-a5b3-a58d9004c646" />
